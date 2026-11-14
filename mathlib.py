@@ -1,2 +1,2 @@
 def average(xs):
-    return sum(xs) / (len(xs) - 1)
+    return sum(xs) / len(xs)
